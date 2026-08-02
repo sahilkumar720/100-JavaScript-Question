@@ -12,7 +12,7 @@ function largestElement(arr) {
     return largestNum;
 }
 
-const num1 = [10, 15, 18, 20, 23];
+const num1 = [10, 15, 18, 54, 20, 23];
 const result = largestElement(num1);
 
 console.log("The largest element in the array is:" + result);
